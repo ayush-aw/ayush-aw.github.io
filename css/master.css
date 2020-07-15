@@ -58,11 +58,7 @@ p {
   background-color: black;
   color: white;
 }
-@viewport{
-     Zoom: 1.0;
-     width: extend-to-zoom;  
-}
-@-ms-viewport{
-    width: extend-to-zoom;
-    Zoom: 1.0;
-}
+@media only screen and (min-width: 1000px) {
+  .jumbotron {
+    width: 1000px;
+  }}
