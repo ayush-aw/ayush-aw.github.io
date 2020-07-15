@@ -49,6 +49,7 @@ p {
 
 .table{
   color: white;
+  width: 100%
 }
 .list-group-item{
   background-color: black;
@@ -58,7 +59,4 @@ p {
   background-color: black;
   color: white;
 }
-@media only screen and (min-width: 1000px) {
-  .jumbotron {
-    width: 1000px;
-  }}
+
