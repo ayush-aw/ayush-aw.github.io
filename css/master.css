@@ -9,7 +9,7 @@ a:hover {
 }
 
 
-.jumbotron {
+.jumbotron jumbotron-fluid{
   background-color: black;
   color: black;
   font-family: Arial, Helvetica, sans-serif;
